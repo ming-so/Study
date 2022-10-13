@@ -30,7 +30,6 @@ public class arrayExample_1 {
             score = 0;
         }
 
-
         br.close();
     }
 }
